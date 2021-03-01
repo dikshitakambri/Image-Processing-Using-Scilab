@@ -1,3 +1,5 @@
+///Basic Commands
+
 img1 = imread('C:\Users\hp\Documents\Image Processing-Scilab\Images\onion.png'); //filepath stored in variable
 imshow(img1); //display image
 img2 = rgb2gray(img1);//convert colour image into grayscale image

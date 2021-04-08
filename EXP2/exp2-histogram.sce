@@ -1,4 +1,7 @@
 // Histogram Equalisation
+
+//118A2044 Dikshita Kambri
+
 clc;
 clear all;
 im=imread("C:\Users\hp\Documents\Image Processing-Scilab\Images\onion.png");

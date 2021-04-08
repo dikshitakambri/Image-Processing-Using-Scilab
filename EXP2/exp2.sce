@@ -1,5 +1,7 @@
 //Contrast stretching
 
+//118A2044 Dikshita Kambri
+
 clc;
 clear all;
 im = imread(')

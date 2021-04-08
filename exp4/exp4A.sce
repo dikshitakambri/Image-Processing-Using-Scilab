@@ -1,5 +1,7 @@
 //DCT TRANSFORM
 
+//118A2044 Dikshita Kambri
+
 clc;
 clear all;
 r = imread("C:\Users\hp\Documents\Image Processing-Scilab\Images\rice.png");
